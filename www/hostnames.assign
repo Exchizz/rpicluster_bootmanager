@@ -1,1 +1,1 @@
-{"hosts":[{"mac":"11:22:33:44:55:66","hostname":"rpii00","hostid":0},{"mac":"11:22:33:44:55:67","hostname":"rpii01","hostid":1}],"hostid":2}
+{"hosts":[], "hostid": 0}
