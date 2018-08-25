@@ -1,0 +1,7 @@
+version: '3'
+services:
+  bootmanager:
+    image: "mneerup/rpi_bootmanager"
+    ports:
+      - "8080:80"
+
